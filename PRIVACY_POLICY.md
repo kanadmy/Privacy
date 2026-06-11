@@ -2,7 +2,7 @@
 
 **Last updated:** June 12, 2026
 
-The developer of the "10X" mobile application (hereinafter referred to as the "Application") is committed to protecting your privacy. This Privacy Policy explains how information is handled within the Application.
+The developer of the "10X Games" mobile application (hereinafter referred to as the "Application") is committed to protecting your privacy. This Privacy Policy explains how information is handled within the Application.
 
 ## 1. Information Collection and Use
 
@@ -32,4 +32,4 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 
 ## 6. Contact Us
 
-If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at: **[ВАШ_EMAIL]**.
+If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at: **dim.kan9510@gmail.com**.
