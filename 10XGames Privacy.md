@@ -1,35 +1,63 @@
 # Privacy Policy
 
-**Last updated:** June 12, 2026
+**Last updated: September 24, 2026**
 
-The developer of the "10X" mobile application (hereinafter referred to as the "Application") is committed to protecting your privacy. This Privacy Policy explains how information is handled within the Application.
+10X respects your privacy and is committed to protecting your personal data. This policy describes what data we collect, how we use it, and what rights you have.
 
-## 1. Information Collection and Use
+## 1. Game Center
 
-* **No Personal Data Collected:** The Application does not collect, store, share, or process any personal data, identifiers, or sensitive user information. 
-* **No Registration Required:** You do not need to create an account, register, or provide any personal information (such as your name, email, or phone number) to use the Application.
-* **Device Permissions:** The Application does not request access to your device's camera, photo library, contacts, location, or advertising identifier (IDFA).
+We use Apple's Game Center for player authentication, leaderboards, and achievements. All data is processed in accordance with Apple's Privacy Policy.
 
-## 2. Apple Game Center Integration
+Game Center data:
+- Player ID and nickname
+- Scores and achievements
+- Progress and statistics
 
-The Application integrates with Apple Game Center to provide features such as leaderboards and achievements. 
+## 2. Advertising (Appodeal SDK)
 
-* Game Center is a service provided by Apple Inc.
-* Any data related to Game Center (such as your nickname, scores, and achievements) is handled directly by Apple in accordance with Apple’s Privacy Policy. 
-* The developer of the Application does not store or process your Game Center data on any external servers.
+The app displays advertisements through the Appodeal service. To deliver relevant ads, Appodeal and its partners may collect the following data:
 
-## 3. Third-Party Services
+- Device advertising identifier (IDFA / IDFV)
+- IP address (approximate location)
+- Technical information (device model, OS version, network type)
+- Usage data (ad impressions and clicks)
+- App performance data
 
-The Application does not use any third-party analytics tools, advertising networks, or tracking software (such as Firebase, Google Analytics, or AdMob).
+This data is used for ad targeting, analytics, and service improvement. Appodeal does not share your data with third parties without your consent.
 
-## 4. Children’s Privacy
+Appodeal Privacy Policy: https://www.appodeal.com/privacy-policy
 
-Since the Application does not collect any personal information, it is fully compliant with children’s privacy regulations, including the Children’s Online Privacy Protection Act (COPPA) and GDPR.
+## 3. What We Do NOT Collect
 
-## 5. Changes to This Privacy Policy
+- Name, email, phone number
+- Photos and videos
+- Contacts and messages
+- Payment information
+- Precise location
+- Health data
 
-We may update our Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date.
+## 4. Your Rights (GDPR / CCPA)
 
-## 6. Contact Us
+Depending on your region, you have the right to:
 
-If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at: **[ВАШ_EMAIL]**.
+- Request information about collected data
+- Demand deletion of your data
+- Withdraw consent for data processing
+- Opt out of the sale of personal data (California residents)
+- Request export of your data
+
+## 5. Ad Tracking (ATT)
+
+The app may request permission to track (App Tracking Transparency). You can change this at any time in iOS Settings: Settings → Privacy & Security → Tracking → 10X.
+
+## 6. Children
+
+The app is not intended for children under 13. We do not knowingly collect personal data from children. If you are a parent and believe your child has provided data, please contact us via the support center.
+
+## 7. Policy Changes
+
+We may update this policy. The current version is always available in the app. Significant changes will be accompanied by a notification.
+
+## 8. Contact
+
+For privacy inquiries and data deletion requests, please contact us through our support center: https://kanadmy.github.io/10X-Support
